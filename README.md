@@ -1,3 +1,4 @@
+![popup](https://github.com/user-attachments/assets/a59d1cce-e108-4add-8259-1da71dd909a1)
 # RandomPopup
 Interesting and some questionable popups.
 # Is this a virus?
